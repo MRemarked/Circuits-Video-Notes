@@ -7,4 +7,4 @@ Here are my Solutions to a Circuits Exam 1, [Questions 1, 2, and 3](Circuits-Exa
 
 Inverting Op Amp [circuit](Op-Amp-Circuits/Inverting_Op_Amp.pdf)
 
-
+Here's the [Summing Op Amp Circuit]
