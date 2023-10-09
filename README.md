@@ -9,6 +9,8 @@ Inverting Op Amp [circuit](Op-Amp-Circuits/Inverting_Op_Amp.pdf)
 
 Here's the [Summing Op Amp Circuit](Op-Amp-Circuits/Summing_Op_Amp_circuit.pdf)
 
+Here's the [Capacitor IV relationship](Op-Amp-Circuits/Capacitor_IV_Relationship.pdf)
+
 Circuits Exam 1 [Mesh and Node Analysis Question](Circuits-Exam1-Notes/Mesh_and_Node_Exam1_Question.pdf)
 
 Circuits Exam 1 [Superposition with Dependent Sources](Circuits-Exam1-Notes/Superposition_and_Dependent_Sources_Circuit.pdf)
